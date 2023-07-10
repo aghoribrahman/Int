@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload Excel</title>
+</head>
+<body>
+    <h2>Upload Excel Sheet</h2>
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <br>
+        {{value}}
+        <input type="submit" value="Upload">
+    </form>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PDF Upload</title>
+</head>
+<body>
+    <h1>Upload PDF File</h1>
+
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <input type="file" name="pdf_file" accept=".pdf" required>
+        <br>
+        <input type="submit" value="Upload">
+
+    </form>
+    <br>
+  
+    <div>
+        <textarea name="" id="" cols="30" rows="10">{{text}}</textarea>
+    </div>
+</body>
+</html>

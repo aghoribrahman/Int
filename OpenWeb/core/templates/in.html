@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PDF Upload</title>
+</head>
+<body>
+    <h1>Upload PDF File</h1>
+    <br>
+    <form id="folder-form" method="POST" action="">
+        {% csrf_token %}
+        <input type="hidden" name="folder-path" id="folder-path"> <br>
+        <input type="file" id="folder-input" webkitdirectory directory multiple> <br>
+        <button type="submit" id="select-btn">Select</button> <br>
+    </form>
+    <div>
+        <textarea name="" id="" cols="30" rows="10">{{text}}</textarea>
+    </div>
+</body>
+<script>
+    document.getElementById('select-btn').addEventListener('click', function() {
+        var folderInput = document.getElementById('folder-input');
+        if (folderInput.files.length > 0) {
+            var folderPath = folderInput.files[0].path;
+            document.getElementById('folder-path').value = folderPath;
+            document.getElementById('folder-form').submit();
+        }
+    });
+    
+</script>
+</html>

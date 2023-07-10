@@ -1,0 +1,105 @@
+MOHIT TRIVEDI  
+  
+CONTACT  - Mobile +91 -9630319444   
+Email - mohit.4033@gmail.com  
+ 
+PORTFOLIO - https://mohit -trivedi.netlify.app/  
+LINKEDIN - https://www.linkedin.com/in/mohit -trivedi -b8462216b   
+HACKERRANK - https://www.hackerrank.com/mohit_4033   
+GITHUB - https ://github.com/aghoribrahman  
+ 
+PROFESSIONAL SUMMARY  
+ 
+Self-motivated person bringing leadership, organizational & customer relations skills. 
+Independently solved problems and kept teams on task to handle diverse business 
+requirements. Facilitate positive expe riences through intellect and prompt resolution.  
+ 
+Skills  
+ 
+      Database : Structure Query Language, Relational Database.  
+ 
+  Operating System : UNIX & Linux, Windows  8/10/11  
+ 
+ Software Tools :  Wireshark , PostgreSQL  , Postman, GIT, GitHub  
+ 
+ IDE : PyCharm, VS Code  
+ 
+ Technologies : Python, JavaScript, HTML/CSS, Embedded Systems, Django,  
+Web Sockets, Rest API  
+ 
+ 
+Familiar With  - Cloud Computing, MS Word, MS PowerPoint, MS Excel, 
+NodeJs,  Internet Protocols , Data Structures, Oops, Arduino  
+ 
+ 
+Work Summary (Freelance)  
+ 
+ Understanding the functional flow of the application and implement the code changes as 
+per the impact analysis/requirement ,  
+ 
+ Writing SQL queries, unions and multiple table joins  & implement the concept of 
+DDL,DQL,DML,DCL & TCL  
+ 
+ Testing the deployed code ch anges by means of functional testing . 
+ 
+ Data extraction, Linear Programming, Transformation and loading data from various 
+sources like PostgreSQL .  
+ 
+ Write, design or edit web page content, or direct others producing content.  
+ 
+ Utilize MVT Concept in web deve lopment design Web App with Django Frame works  
+ 
+ 
+Python Projects  
+ 
+Smart Alcohol Detection System GPS & GSM Based  
+ 
+This system is aimed at making vehicle driving safer than before. This is implemented 
+using Python and Micro Controller , the detection of alc ohol using alcohol detector 
+connected to Arduino such that when the level of alcohol crosses a permissible limit, the vehicle ignition system will turn off and the GPS module will capture the present 
+location of the vehicle  
+ 
+Automatic Street light intensit y controller  
+ 
+A simple & powerful concept, which uses transistor (light Dependent diode) as switch 
+to switch ON & off the street light automatically, By using this manual works are 
+removed. It automatically switch off  & on with respect to illuminate of sunlight.  
+ 
+Python Face Detection  
+  
+Face Detection using Haar cascades is a machine learning based approach where a 
+cascade function is trained with a set of input Data. Open CV already contains many 
+pre trained classifiers Data for face, eyes, smiles etc.  
+ 
+EDUCATION (Year of Passing, Institution Name, Place of institution)  
+ 
+ 
+ 
+2015 - 07/2019 | Bachelor of Engineering, Specialization on 
+ELECTRONICS & COMMUNICATION | Institute of Engineering & 
+Science, IPS Academy, Indore (M.P)  
+  
+2014 - 6/2015 | 12th: Higher Secondary Education | Maharishi Vidya 
+Mandir Rewa (M.P)   
+ 
+2011 - 6/2012 | 10th: Secondary Education | Maharishi Vidya Mandir 
+Rewa (M.P)  
+ 
+Training & Internships  
+ 
+06/2017, Intern, Oppo Mobile Ltd Jabalpur (M.P) - Enhanced collaboration between 
+team members by preparing mee ting materials. Assisted in development of various 
+print marketing materials. Developed social media strategy templates for 
+organization  
+ 
+09/2017, Trainee, Robotronix Ltd, Indore (M.P) – Attended training course to build 
+understating of technical technique s & industry. Designed & constructed new 
+equipment to meet engineering experiment requirements.  
+ 
+Certification  
+Python ( Udemy & Hacker Ranks ), JavaScript(Solo Learn), Embedded systems 
+by ( Robotronix Ltd),Vocation training in General Networking by (BSNL),  
+Structure query Language by (Solo learn ,Hacker Rank), Programming with 
+JavaScript and Node.js  (Jovian) - https://jovian.com/certificate/MFQTQNRXGU  , 
+Web Development with HTML and CSS  (Jovian) - 
+https://jovian.com/certificate/MFQTQNRVG4   , 
